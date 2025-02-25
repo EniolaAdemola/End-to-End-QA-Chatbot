@@ -2,3 +2,7 @@ langchain
 langchain_groq
 langchain_core
 langchain_huggingface
+langchain-openai
+python-dotenv
+langchain_community
+streamlit
